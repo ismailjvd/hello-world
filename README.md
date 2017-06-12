@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+I am really new to programming but I think it's something that I would very much be interested in. As a newcomer, my focus is very broad so I can get a feel for what I like, but as of know I think I would be interested in Software Engineering, App Development, and Web Development. I don't think I've developed by mindsets necessary to dream big yet but I'm working towards that. As of now, I've taken an introductory course in C++ and am working as a student assistant for the state, where I work in Database management. I've worked a little bit with MySQL and HTML but nothing too expansive, and I certainly have a lot to learn. I look forward to learning more from this site!
